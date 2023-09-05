@@ -1,4 +1,4 @@
-# pinyin - 🏳️An simple pinyin messages manage implementation for Go.
+# pinyin - 汉字转拼音
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/go-zoox/pinyin)](https://pkg.go.dev/github.com/go-zoox/pinyin)
 [![Build Status](https://github.com/go-zoox/pinyin/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/go-zoox/pinyin/actions/workflows/ci.yml)
