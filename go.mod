@@ -1,4 +1,4 @@
-module github.com/go-zoox/i18n
+module github.com/go-zoox/pinyin
 
 go 1.18
 
